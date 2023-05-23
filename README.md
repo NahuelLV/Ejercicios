@@ -15,7 +15,8 @@
 
 ## Loops
 
--[Ejercicio 4-1](/vim4-1.c vim4-1.c)
+-[Ejercicio 4-1] (/vim4-1.c vim 4-1)
+
 
 
 
