@@ -3,7 +3,7 @@
 
 ## Hola mundo
 
-
+-[Ejercicio Hello Word](/HW.c)
 
 ## Tipos de datos
 
@@ -11,7 +11,7 @@
 
 ## Funciones
 
--[Ejercicio 7-c](/vim7.c) vim7.c
+-[Ejercicio 7-c](/vim7.c) 
 
 ## Loops
 
