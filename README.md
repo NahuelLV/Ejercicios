@@ -3,7 +3,7 @@
 
 ## Hola mundo
 
--[Ejercicio Hello Word](/HW.c)
+-[Ejercicio Hello World](/HW.c)
 
 ## Tipos de datos
 
