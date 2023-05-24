@@ -15,7 +15,8 @@
 
 ## Loops
 
--[Ejercicio 4-1-c]( /vim 4-1.c) 4-1.c
+-[Ejercicio 4-1-](/4-1.c) 
+
 
 
 
