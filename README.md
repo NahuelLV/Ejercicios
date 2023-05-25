@@ -7,6 +7,7 @@
 
 -[Ejercicio 12](/12H.c)
 
+-[Ejercicio 18](/18H.c)
 ## Tipos de datos
 
 
