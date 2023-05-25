@@ -15,6 +15,19 @@
 
 ## Tipos de datos
 
+-[Ejercio 27](/27.c)
+
+-[Ejercio 39](/39.c)
+
+
+-[Ejercio 40-a](/40a.c)
+
+-[Ejercio 40-b](/40b.c)
+
+-[Ejercio 40-c](/40c.c)
+
+-[Ejercio 40-d](/40d.c)
+
 
 
 ## Funciones
