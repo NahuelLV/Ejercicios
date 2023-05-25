@@ -4,6 +4,7 @@
 ## Hola mundo
 
 -[Ejercicio Hello World](/HW.c)
+-[Ejercicio 12](/12H.c)
 
 ## Tipos de datos
 
