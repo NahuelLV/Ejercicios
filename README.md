@@ -38,11 +38,11 @@
 
 -[Ejercicio 4-1](/4-1.c) 
 
--[Ejercicio 8L](/8L.c) 
+-[Ejercicio 8](/8L.c) 
 
--[Ejercicio 11L](/11L.c) 
+-[Ejercicio 11](/11L.c) 
 
-
+-[Ejercicio 12](/doceL.c)
 
 
 
