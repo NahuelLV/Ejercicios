@@ -38,6 +38,8 @@
 
 -[Ejercicio 1-a](/1L.c)
 
+-[Ejercicio 1-b](/1bl.c)
+
 -[Ejercicio 4-1](/4-1.c) 
 
 -[Ejercicio 8](/8L.c) 
