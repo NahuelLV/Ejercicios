@@ -49,6 +49,8 @@
 
 -[Ejercicio 1-g](/1gl.c)
 
+-[Ejercicio 1-h](/1hl.c)
+
 -[Ejercicio 4-1](/4-1.c) 
 
 -[Ejercicio 8](/8L.c) 
