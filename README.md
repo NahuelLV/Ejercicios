@@ -19,7 +19,6 @@
 
 -[Ejercio 39](/39.c)
 
-
 -[Ejercio 40-a](/40a.c)
 
 -[Ejercio 40-b](/40b.c)
@@ -45,6 +44,8 @@
 -[Ejercicio 1-d](/1dl.c)
 
 -[Ejercicio 1-e](/1el.c)
+
+-[Ejercicio 1-f](/1fl.c)
 
 -[Ejercicio 4-1](/4-1.c) 
 
